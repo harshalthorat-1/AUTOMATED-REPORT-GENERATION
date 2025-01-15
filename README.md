@@ -17,22 +17,17 @@ TASK 2 - AUTOMATED  REPORT  GENERATION
 
 DESCRIPTION OF TASK
 
-1. **API Integration**:
-   - **OpenWeatherMap API**: Used to fetch real-time weather data such as temperature and humidity.
+Read Data from a File: Extract data from a specified file (e.g., CSV format).
+Analyze the Data: Perform basic data analysis, such as calculating averages or summarizing information.
+Generate a PDF Report: Use libraries like FPDF or ReportLab to format and generate a PDF report containing the analyzed data.
+Deliverables:
 
-2. **Data Handling**:
-   - **Python `requests` Library**: Retrieves data from the API in JSON format.
-   - **Pandas**: Processes and organizes the JSON data into a structured DataFrame for easy analysis.
-
-3. **Data Visualization**:
-   - **Matplotlib**: Creates basic plots and handles the layout of visualizations.
-   - **Seaborn**: Enhances plots with aesthetically pleasing and informative statistical graphics.
-
-4. **Date Formatting**:
-   - **Matplotlib Dates (`mdates`)**: Manages date and time formatting to ensure clear, non-overlapping x-axis labels.
+The Python script for automated report generation.
+A sample PDF report showcasing the output.
 
 # OUTPUT OF THE TASK 
-![image](https://github.com/user-attachments/assets/fc06c90e-94b9-4351-ab8f-883a28f2bdff)
+![image](https://github.com/user-attachments/assets/c31b18c3-d556-48ac-ad96-b5860dd18eba)
+
 
 
 
